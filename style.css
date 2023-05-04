@@ -54,7 +54,7 @@ button {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	transition: transform 80ms ease-in;
-	border-color: red;
+	border-color: rgb(66, 142, 66);
 }
 
 button:active {
@@ -215,14 +215,3 @@ input {
 	margin: 20px 0;
 }
 
-.social-container a {
-	border: 1px solid red;
-	border-radius: 50%;
-	display: inline-flex;
-	justify-content: center;
-	align-items: center;
-	margin: 0 5px;
-	height: 40px;
-	width: 40px;
-	background: #f2eee3;
-}
