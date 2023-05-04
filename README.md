@@ -1,5 +1,5 @@
 Login Page Application
-This project is a simple HTML login page with CSS styling and JavaScript for interactive effects. The page has two forms, one for user registration and another for login. It also includes social media login options for Facebook, Google Plus, and LinkedIn.
+This project is a simple HTML login page with CSS styling and JavaScript for interactive effects. The page has two forms, one for user registration and another for login. 
 
 The following files are included in this repository:
 
